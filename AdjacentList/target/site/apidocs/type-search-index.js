@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"com.mycompany.adjacentlist","l":"AdjacentList"},{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"Controller","l":"Controller"},{"p":"Controller","l":"FileManipulator"},{"p":"Controller","l":"TextManipulator"}];updateSearchResults();

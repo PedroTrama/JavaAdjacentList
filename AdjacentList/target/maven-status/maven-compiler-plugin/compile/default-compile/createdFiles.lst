@@ -1,0 +1,4 @@
+com\mycompany\adjacentlist\AdjacentList.class
+Controller\FileManipulator.class
+Controller\TextManipulator.class
+Controller\Controller.class

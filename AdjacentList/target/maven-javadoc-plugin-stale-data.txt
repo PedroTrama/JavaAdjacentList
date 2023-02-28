@@ -1,0 +1,50 @@
+@options
+@packages
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'18'
+-sourcepath
+'C:/Users/victo/OneDrive/Documentos/NetBeansProjects/AdjacentList/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/victo/OneDrive/Documentos/NetBeansProjects/AdjacentList/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'AdjacentList 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'AdjacentList 1.0-SNAPSHOT API'
+com.mycompany.adjacentlist
+Controller
+'C:/Users/victo/OneDrive/Documentos/NetBeansProjects/AdjacentList/src/main/java/com/mycompany/adjacentlist/AdjacentList.java'
+'C:/Users/victo/OneDrive/Documentos/NetBeansProjects/AdjacentList/src/main/java/Controller/Controller.java'
+'C:/Users/victo/OneDrive/Documentos/NetBeansProjects/AdjacentList/src/main/java/Controller/FileManipulator.java'
+'C:/Users/victo/OneDrive/Documentos/NetBeansProjects/AdjacentList/src/main/java/Controller/TextManipulator.java'
+C:\Users\victo\OneDrive\Documentos\NetBeansProjects\AdjacentList\src\main\java = 1663032227725
+C:\Users\victo\OneDrive\Documentos\NetBeansProjects\AdjacentList\target\site\apidocs\allclasses-index.html = 1663033581738
+C:\Users\victo\OneDrive\Documentos\NetBeansProjects\AdjacentList\target\site\apidocs\allpackages-index.html = 1663033581742
+C:\Users\victo\OneDrive\Documentos\NetBeansProjects\AdjacentList\target\site\apidocs\copy.svg = 1663033581785
+C:\Users\victo\OneDrive\Documentos\NetBeansProjects\AdjacentList\target\site\apidocs\element-list = 1663033581633
+C:\Users\victo\OneDrive\Documentos\NetBeansProjects\AdjacentList\target\site\apidocs\help-doc.html = 1663033581778
+C:\Users\victo\OneDrive\Documentos\NetBeansProjects\AdjacentList\target\site\apidocs\index-all.html = 1663033581769
+C:\Users\victo\OneDrive\Documentos\NetBeansProjects\AdjacentList\target\site\apidocs\index.html = 1663033581721
+C:\Users\victo\OneDrive\Documentos\NetBeansProjects\AdjacentList\target\site\apidocs\jquery-ui.overrides.css = 1663033581858
+C:\Users\victo\OneDrive\Documentos\NetBeansProjects\AdjacentList\target\site\apidocs\member-search-index.js = 1663033581750
+C:\Users\victo\OneDrive\Documentos\NetBeansProjects\AdjacentList\target\site\apidocs\module-search-index.js = 1663033581743
+C:\Users\victo\OneDrive\Documentos\NetBeansProjects\AdjacentList\target\site\apidocs\overview-summary.html = 1663033581772
+C:\Users\victo\OneDrive\Documentos\NetBeansProjects\AdjacentList\target\site\apidocs\overview-tree.html = 1663033581708
+C:\Users\victo\OneDrive\Documentos\NetBeansProjects\AdjacentList\target\site\apidocs\package-search-index.js = 1663033581745
+C:\Users\victo\OneDrive\Documentos\NetBeansProjects\AdjacentList\target\site\apidocs\script.js = 1663033581784
+C:\Users\victo\OneDrive\Documentos\NetBeansProjects\AdjacentList\target\site\apidocs\search.js = 1663033581788
+C:\Users\victo\OneDrive\Documentos\NetBeansProjects\AdjacentList\target\site\apidocs\stylesheet.css = 1663033581782
+C:\Users\victo\OneDrive\Documentos\NetBeansProjects\AdjacentList\target\site\apidocs\tag-search-index.js = 1663033581754
+C:\Users\victo\OneDrive\Documentos\NetBeansProjects\AdjacentList\target\site\apidocs\type-search-index.js = 1663033581747
